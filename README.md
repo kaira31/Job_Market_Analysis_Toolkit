@@ -15,6 +15,29 @@ Focused on company-related datasets, this module helps users understand differen
 **3. Job Market Trends Module**
 This module identifies emerging job roles and high-demand skills, analyzing job postings and associated skills. It uses functions such as popular_job() and high_paying_job() to highlight opportunities beneficial for job seekers and educational institutions aiming to align curricula with market needs.
 
+# Usage
+The toolkit is structured into several distinct modules, each serving a specific purpose and
+handling different types of data and analysis to ensure thorough and targeted market insights.
+The Analysis Module, Company Insights Module, and Job Market Trends Module form the core
+components of the toolkit, each equipped with specialized functions and classes designed to
+optimize the data analysis process.
+Analysis Module: Serving as the heart of the toolkit, this module facilitates various statistical
+and analytical operations. It allows users to perform detailed analysis concerning job
+requirements, salary trends, and sector-specific growth. Functions like average_salary(),
+median_salary(), and trending_sector() help in assessing financial aspects and industry trends.
+Company Insights Module: This module focuses on extracting actionable insights from
+company-related datasets. It aids users in understanding different company dynamics such as
+company sizes, the industries they operate in, and their specialties. Through functions like
+company_info(), trending_skill(), company_type(), company_size_distribution(),
+location_type(), the module provides a deep dive into how companies are aligned with current
+job market trends and skill demands.
+Job Market Trends Module: Targeted at analyzing job postings and associated skills, this
+module identifies emerging job roles and high-demand skills. It uses functions such as
+popular_job() and high_paying_job() to highlight opportunities that could be beneficial for job
+seekers and educational institutions aiming to align curriculums with market needs.
+This toolkit is ideal for job seekers, employers, and analysts aiming to navigate and capitalize
+on job market dynamics effectively.
+
 # Future Development
 Our development roadmap includes:
 
