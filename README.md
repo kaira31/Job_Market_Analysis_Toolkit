@@ -14,3 +14,10 @@ Focused on company-related datasets, this module helps users understand differen
 
 **3. Job Market Trends Module**
 This module identifies emerging job roles and high-demand skills, analyzing job postings and associated skills. It uses functions such as popular_job() and high_paying_job() to highlight opportunities beneficial for job seekers and educational institutions aiming to align curricula with market needs.
+
+# Future Development
+Our development roadmap includes:
+
+Integration of advanced analytical techniques and predictive algorithms to enhance forecasting capabilities.
+Improved data visualization features using Python's robust libraries, such as interactive charts, graphs, and dynamic dashboards.
+Stay tuned for more updates and enhanced functionality in future releases.
