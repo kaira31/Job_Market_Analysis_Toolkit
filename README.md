@@ -1,4 +1,4 @@
-# Job_Market_Analysis_Toolkit
+# Job Market Analysis Toolkit
 
 # Overview
 The Job Analysis Toolkit is a powerful yet straightforward Python package designed to streamline the analysis of job market data and extract essential insights. This toolkit is ideal for job seekers, employers, and analysts seeking to understand current job market trends, skill demands, and salary expectations. By focusing on practicality and simplicity, the toolkit allows users to quickly gain valuable insights without complex machine learning or natural language processing.
